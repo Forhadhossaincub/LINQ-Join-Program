@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\LINQ Join Program\LINQ Join Program\bin\Debug\LINQ Join Program.exe.config
+C:\Users\Administrator\Desktop\LINQ Join Program\LINQ Join Program\bin\Debug\LINQ Join Program.exe
+C:\Users\Administrator\Desktop\LINQ Join Program\LINQ Join Program\bin\Debug\LINQ Join Program.pdb
+C:\Users\Administrator\Desktop\LINQ Join Program\LINQ Join Program\obj\Debug\LINQ Join Program.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\LINQ Join Program\LINQ Join Program\obj\Debug\LINQ Join Program.exe
+C:\Users\Administrator\Desktop\LINQ Join Program\LINQ Join Program\obj\Debug\LINQ Join Program.pdb
